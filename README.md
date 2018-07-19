@@ -25,5 +25,5 @@
 + [使用bind服务例子](https://github.com/ningbaoqi/Service/commit/48b879e929e2a1b00da15fda79a34962eda64fcc)
 
 ### 使用bind服务并且使activity调用service方法
-+ [使用bind服务例子](https://github.com/ningbaoqi/Service/commit/48b879e929e2a1b00da15fda79a34962eda64fcc)
++ [使用bind服务并且使activity调用service方法](https://github.com/ningbaoqi/Service/commit/6f98f36213c7d56dc4e95034c03897da36fc176c)
 
