@@ -18,6 +18,8 @@
 |`onStartCommand`|创建之后启动时调用这个方法，每次启动都会调用这个方法|
 |`onDestroy`|服务销毁时调用|
 
+[显式启动服务停止服务](https://github.com/ningbaoqi/Activity/blob/master/app/src/main/java/com/shop/ningbaoqi/activity
+
 #### bindService()
 + bindService()该方法启动的服务所在的进程不属于服务进程，Activity与服务建立连接，Activity一旦死亡，服务也会死亡，Activity可以与服务进行通信，并可以交换数据；
 
