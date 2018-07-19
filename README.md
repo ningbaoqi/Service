@@ -27,3 +27,5 @@
 ### 使用bind服务并且使activity调用service方法
 + [使用bind服务并且使activity调用service方法](https://github.com/ningbaoqi/Service/commit/6f98f36213c7d56dc4e95034c03897da36fc176c)
 
+### 使用服务实现电话录音机
++ [使用服务实现电话录音机](https://github.com/ningbaoqi/Service/commit/6f98f36213c7d56dc4e95034c03897da36fc176c)
