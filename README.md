@@ -24,5 +24,6 @@
 + bindService()该方法启动的服务所在的进程不属于服务进程，Activity与服务建立连接，Activity一旦死亡，服务也会死亡，Activity可以与服务进行通信，并可以交换数据；
 + [使用bind服务例子](https://github.com/ningbaoqi/Service/commit/48b879e929e2a1b00da15fda79a34962eda64fcc)
 
-
+### 使用bind服务并且使activity调用service方法
++ [使用bind服务例子](https://github.com/ningbaoqi/Service/commit/48b879e929e2a1b00da15fda79a34962eda64fcc)
 
