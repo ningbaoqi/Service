@@ -1,7 +1,7 @@
 ### Service生命周期
 + 因为启动方式不同则有不同的`生命周期`，如下为两种方式启动Service的生命周期：
 
-image
+![image](https://github.com/ningbaoqi/Service/blob/master/gif/pic-1.jpg)
 
 #### 使用startService()方法启动服务的生命周期
 
